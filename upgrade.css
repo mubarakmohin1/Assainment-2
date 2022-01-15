@@ -8,6 +8,9 @@ header{
     margin-bottom: 50px;
     font-weight:900;
 }
+
+/* -------top-part... ---*/ 
+
 .top-part{
     ;
     display: flex;
@@ -52,6 +55,9 @@ p{
     padding-left: 150px;
     
 }
+
+/* -----seconnd part----- */
+
 section > .second-main{
     justify-content: center;
 }
@@ -99,6 +105,10 @@ header h3{
 article > p{
     color: rgb(18, 163, 211);
 }
+
+/* -------Bonus part------ */
+
+
 .food-item{
     width: 1000px;
     background-color: cornflowerblue;
@@ -118,6 +128,7 @@ article > p{
     height: 50%;
 } 
  
+/* ----------foooter------ */
 
 footer{
     height: 14em;
@@ -146,6 +157,10 @@ footer p{
 .icon{
     padding-left:1.2em;
 }
+
+/* -------Media quesries----*/
+
+
 @media only screen and (max-width:688px) {
     .container{
         width: 100%;
