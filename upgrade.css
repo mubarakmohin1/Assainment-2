@@ -1,0 +1,43 @@
+body{
+    
+}
+header{
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight:900;
+}
+.top-part{
+    display: flex;
+    margin-left: 200px;
+    
+
+}
+.top-left{
+    border-width: 50%;
+}
+h1{
+    font-size: 3em;
+    font-weight: 900;
+}
+p{
+    font-size: 16px;
+    font-weight: 500;
+}
+a{
+    text-decoration: none;
+    background-color:rgb(156, 18, 18);
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.top-right{
+    border-width: 50%;
+}
+.top-right img{
+    width: 50%;
+    padding-left: 150px;
+    border-radius: 1px solid wheat;
+}
