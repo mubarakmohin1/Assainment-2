@@ -194,6 +194,7 @@ footer p{
     .foot-detail,.foot-icon{
     
         padding-left:-100%;
+        visibility: hidden;
     }
         
 }
